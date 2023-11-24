@@ -4,6 +4,7 @@
   "description": "React leaflet wrapper of leaflet.gridlayer.googlemutant",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "type": "module",
   "files": [
     "lib/**/*"
   ],
